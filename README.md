@@ -1,1 +1,5 @@
 # chuck-fun
+
+```
+chuck foo*
+```
